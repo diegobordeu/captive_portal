@@ -1,0 +1,71 @@
+<head>
+<meta http-equiv=\"pragma\" content=\"no-cache\">
+<meta http-equiv=\"expires\" content=\"-1\">
+</head>
+
+
+<!--script src="js/clipboard/dist/clipboard.min.js"></script-->
+<script src="js/clipboard.min.js"></script>
+<script>
+  function copiarAlPortapapeles(id_elemento) {
+
+    // Crea un campo de texto "oculto"
+    var aux = document.createElement("input");
+
+    // Asigna el contenido del elemento especificado al valor del campo
+    aux.setAttribute("value", document.getElementById(id_elemento).innerHTML);
+
+    // Añade el campo a la página
+    document.body.appendChild(aux);
+
+    // Selecciona el contenido del campo
+    aux.select();
+
+    // Copia el texto seleccionado
+    document.execCommand("copy");
+
+    // Elimina el campo de la página
+    document.body.removeChild(aux);
+
+  }
+
+  var clipboard = new ClipboardJS('.btn');
+
+
+  clipboard.on('success', function(e) {
+      console.info('Accion:', e.action);
+      console.info('Texto:', e.text);
+      console.info('Trigger:', e.trigger);
+
+      e.clearSelection();
+  });
+
+  clipboard.on('error', function(e) {
+      console.error('Accion:', e.action);
+      console.error('Trigger:', e.trigger);
+  });
+
+</script>
+<body>
+
+  <input id="foo" value="https://github.com/zenorocha/clipboard.js.git">
+
+  <!-- Trigger -->
+  <button class="btn" data-clipboard-target="#foo">
+      <img src="assets/clippy.svg" alt="Copy to clipboard">
+  </button>
+
+  <!--button onclick="copiarAlPortapapeles('url')">Copiar a portapapeles</button-->
+
+
+
+
+  <button class="btn" data-clipboard-text="Just because you can doesn't mean you should — clipboard.js">
+    Copy to clipboard 2222
+</button>
+
+
+
+</body>
+
+</html>

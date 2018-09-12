@@ -1,0 +1,157 @@
+
+Celular Diego Redmi A5 Android Xiomi.(en portal Cautivo)
+"user Agent: " Mozilla/5.0 (Linux; Android 7.1.2; Redmi 5A Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile Safari/537.36
+"
+browser major: " 68
+"
+browser name: " Chrome WebView
+"
+browser Version"68.0.3440.91
+"
+device model: " mi 5A
+"
+device type: " mobile
+"
+device vendr: " Xiaomi
+"
+OS Version" 7.1.2
+"
+Engine "WebKit
+"
+cpu arqui: " undefined
+"
+
+Celular Diego Redmi A5 Android Xiomi.(en Google chrome app)
+"user Agent: " Mozilla/5.0 (Linux; Android 7.1.2; Redmi 5A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36
+"
+browser major: " 68
+"
+browser name: " Chrome
+"
+browser Version"68.0.3440.91
+"
+device model: " mi 5A
+"
+device type: " mobile
+"
+device vendr: " Xiaomi
+"
+OS Version" 7.1.2
+"
+Engine "WebKit
+"
+cpu arqui: " undefined
+"
+
+Celular de Antonio Fontaine. iphone 6 (en portal cautivo).
+"user Agent: " Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Mobile/15C202
+"
+browser major: " 604
+"
+browser name: " WebKit
+"
+browser Version"604.4.7
+"
+device model: " iPhone
+"
+device type: " mobile
+"
+device vendr: " Apple
+"
+OS Version" 11.2.2
+"
+Engine "WebKit
+"
+cpu arqui: " undefined
+"
+
+Celular de Antonio Fontaine. iphone 6 (en safari app).
+"user Agent: " Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C202 Safari/604.1
+"
+browser major: " 11
+"
+browser name: " Mobile Safari
+"
+browser Version"11.0
+"
+device model: " iPhone
+"
+device type: " mobile
+"
+device vendr: " Apple
+"
+OS Version" 11.2.2
+"
+Engine "WebKit
+"
+cpu arqui: " undefined
+"
+
+
+Celular de Ivan Motorola X4 (en portal cautivo).
+user Agent: " Mozilla/5.0 (Linux; Android 8.0.0; moto x4 Build/OPWS27.57-40-17; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36
+"
+browser major: " 62 // 68
+"
+browser name: " Chrome WebView
+"
+browser Version"62.0.3202.84 // 68.0.3440.91 tras actualizacion
+"
+device model: " o
+"
+device type: " mobile
+"
+device vendr: " Motorola
+"
+OS Version" 8.0.0
+"
+Engine "WebKit
+"
+cpu arqui: " undefined
+
+
+
+Celular de Ivan Motorola X4 (en Google Chrome app).
+"user Agent: " Mozilla/5.0 (Linux; Android 8.0.0; moto x4 Build/OPWS27.57-40-17) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+"
+browser major: " 62 // 68
+"
+browser name: " Chrome
+"
+browser Version"62.0.3202.84 // 68.0.3440.91 tras actualizacion
+"
+device model: " o
+"
+device type: " mobile
+"device vendr: " Motorola
+"
+OS Version" 8.0.0
+"
+Engine "WebKit
+"
+cpu arqui: " undefined.
+
+Celular Santiago Samsung A8 (en portal cautivo).
+user Agent: "�Mozilla/5.0 (Linux; Android 7.1.1; SM-A530F Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.86 Mobile Safari/537.36"
+browser major: "�69"
+browser name: "�Chrome WebView"
+browser Version"69.0.3497.86"
+device model: "�SM-A530F"
+device type: "�mobile"
+device vendr: "�Samsung"
+OS Version"�7.1.1"
+Engine "WebKit"
+cpu arqui: "�undefined
+
+
+Celular Santiago Samsung A8 (en portal Google chrome app).
+"user Agent: "�Mozilla/5.0 (Linux; Android 7.1.1; SM-A530F Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.86 Mobile Safari/537.36"
+browser major: "�69"
+browser name: "�Chrome"
+browser Version"69.0.3497.86"
+device model: "�SM-A530F"
+device type: "�mobile"
+device vendr: "�Samsung"
+OS Version"�7.1.1"
+Engine "WebKit"
+cpu arqui: "�undefined
